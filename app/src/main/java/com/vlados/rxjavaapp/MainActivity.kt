@@ -59,4 +59,4 @@ class MainActivity : AppCompatActivity() {
         return Flowable.interval(1L, 1L, TimeUnit.SECONDS)
     }
 }
-// mr
+//MR
